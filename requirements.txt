@@ -1,0 +1,6 @@
+tensorflow==2.10.1
+pandas
+imageio
+opencv-python
+# imutils
+# matplotlib
